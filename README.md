@@ -1,0 +1,3 @@
+# MyFirstConsoleApp
+
+Tema 1
